@@ -50,7 +50,7 @@ const featuredPosts = [
     imageText: 'C2',
   },
   {
-    title: 'Monitor your health regualary',
+    title: 'Monitor your health regularly',
     
     description:
       'This helps patient to know at the right time what treatment he needs from doctor.',
