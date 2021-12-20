@@ -21,22 +21,7 @@ export default function Footer(props) {
 
   return (
     <footer className={classes.footer}>
-      <Container maxWidth="lg">
-        <Typography variant="h6" align="center" gutterBottom>
-          Get in Touch
-        </Typography>
-        <Typography variant="subtitle1" align="center" color="textSecondary" component="p">
-          Contact Number: +91 7016666107
-        </Typography>
-        <Typography variant="subtitle1" align="center" color="textSecondary" component="p">
-          Email id: group20da2018@gmail.com
-        </Typography>
-        <a href="https://github.com/Kyrt-del/Grp-20-Healthcare-Management" target="_blank">
-          <IconButton>
-            <GitHubIcon />
-          </IconButton>
-        </a>
-      </Container>
+      
     </footer>
   );
 }
